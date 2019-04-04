@@ -1,0 +1,10 @@
+C:\Users\Lizzy Pantoja\AppData\Local\Temporary Projects\Juego\bin\Debug\Juego.exe.config
+C:\Users\Lizzy Pantoja\Documents\Visual Studio 2015\Projects\Juego\Juego\bin\Debug\Juego.exe.config
+C:\Users\Lizzy Pantoja\Documents\Visual Studio 2015\Projects\Juego\Juego\obj\Debug\Juego.csprojResolveAssemblyReference.cache
+C:\Users\Lizzy Pantoja\Documents\Visual Studio 2015\Projects\Juego\Juego\obj\Debug\Juego.Form1.resources
+C:\Users\Lizzy Pantoja\Documents\Visual Studio 2015\Projects\Juego\Juego\obj\Debug\Juego.Properties.Resources.resources
+C:\Users\Lizzy Pantoja\Documents\Visual Studio 2015\Projects\Juego\Juego\obj\Debug\Juego.csproj.GenerateResource.Cache
+C:\Users\Lizzy Pantoja\Documents\Visual Studio 2015\Projects\Juego\Juego\bin\Debug\Juego.exe
+C:\Users\Lizzy Pantoja\Documents\Visual Studio 2015\Projects\Juego\Juego\bin\Debug\Juego.pdb
+C:\Users\Lizzy Pantoja\Documents\Visual Studio 2015\Projects\Juego\Juego\obj\Debug\Juego.exe
+C:\Users\Lizzy Pantoja\Documents\Visual Studio 2015\Projects\Juego\Juego\obj\Debug\Juego.pdb
